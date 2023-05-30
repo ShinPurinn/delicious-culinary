@@ -30,7 +30,7 @@ function Recipe() {
       </div>
       <Info>
         <Button className={activeTabs === "instructions" ? "active" : ""} onClick={() => setActiveTabs("instructions")}>Instructions</Button>
-        <Button className={activeTabs === "ingredients" ? "active" : ""} onClick={() => setActiveTabs("ingredients")}>ingredients</Button>
+        <Button className={activeTabs === "ingredients" ? "active" : ""} onClick={() => setActiveTabs("ingredients")}>Ingredients</Button>
         {activeTabs === 'instructions' && (
           <div>
             <h3 dangerouslySetInnerHTML={{__html: details.summary}}></h3>
