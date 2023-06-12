@@ -14,12 +14,17 @@ These are the project libraries :
 - react-router-dom
 - styled-components
 
+
 ### Kelompok TechPeduli
 
 00000075956 - Pradipta Dwi Arymurti (banner & design)
+
 00000075936 - Cliff Reynard (main programmer)
+
 00000075737 - Syahid Bandoro Suryo (navigator)
+
 00000076394 - Nicholas Miguel Syachnanta (assistant)
+
 
 ### Features
 
@@ -29,6 +34,7 @@ These are the project libraries :
 - Instruction list, just click the food image, and you will get instruction on how to make it.
 - Ingredients list, you can also click the button beside the instruction to get the list of all the things you need!
 
+
 ### Design
 
 Simplistic Design is the best ain't it? we make sure to make the web light as a feather for quick load and also a clean and modern look.
@@ -37,6 +43,7 @@ Simplistic Design is the best ain't it? we make sure to make the web light as a 
 
 *Due to us fetching all the datas from spoonacular, we are not responsible for any recipe error, long time loading the list, and image not loading or image slowly load. We are also no responsible for any false recipe and misinformation in the recipe.
 ** we are also using the free plan, so we can't complain.
+
 
 ## This Project use React
 
