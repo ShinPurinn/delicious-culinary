@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Delicious Culinary
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Delicious Culinary is a website that show popular foods recipe. In the homepage, there are the vegeterian picks and popular picks. There are also a few page of recipes that is divided by country origin. For more specific recipe, you can use the search button to search the recipe you want.
 
-## Available Scripts
+## Project Library
 
-In the project directory, you can run:
+This project is using spoonacular API
+These are the project libraries :
+- react-scripts
+- @splidejs/react-splide
+- framer-motion
+- react-icons
+- react-router-dom
+- styled-components
 
-### `npm start`
+### Kelompok TechPeduli
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+00000075956 - Pradipta Dwi Arymurti (banner & design)
+00000075936 - Cliff Reynard (main programmer)
+00000075737 - Syahid Bandoro Suryo (navigator)
+00000076394 - Nicholas Miguel Syachnanta (assistant)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Features
 
-### `npm test`
+- Search function, search any recipe you want !!!
+- The website not only show the name of the cuisine but also the picture! so you have a general idea of how it look like!
+- We use the API tags to divide the large amount of food recipes into popular cuisine, cuisine by origin, and vegetarian cuisine.
+- Instruction list, just click the food image, and you will get instruction on how to make it.
+- Ingredients list, you can also click the button beside the instruction to get the list of all the things you need!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Design
 
-### `npm run build`
+Simplistic Design is the best ain't it? we make sure to make the web light as a feather for quick load and also a clean and modern look.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+*Due to us fetching all the datas from spoonacular, we are not responsible for any recipe error, long time loading the list, and image not loading or image slowly load. We are also no responsible for any false recipe and misinformation in the recipe.
+** we are also using the free plan, so we can't complain.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
+## This Project use React
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
