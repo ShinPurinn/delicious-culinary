@@ -2,9 +2,17 @@
 
 Delicious Culinary is a website that show popular foods recipe. In the homepage, there are the vegeterian picks and popular picks. There are also a few page of recipes that is divided by country origin. For more specific recipe, you can use the search button to search the recipe you want.
 
+Website link
+https://delicious-culinary.vercel.app/
+
+Github link
+https://github.com/ShinPurinn/delicious-culinary
+
 ## Project Library
 
 This project is using spoonacular API
+Spoonacular API Website https://spoonacular.com/food-api
+Spoonacular API documentation https://spoonacular.com/food-api/docs
 
 These are the project libraries :
 - react-scripts
@@ -43,6 +51,12 @@ Simplistic Design is the best ain't it? we make sure to make the web light as a 
 
 *Due to us fetching all the datas from spoonacular, we are not responsible for any recipe error, long time loading the list, and image not loading or image slowly load. We are also no responsible for any false recipe and misinformation in the recipe.
 ** we are also using the free plan, so we can't complain.
+
+
+## This Project is being hosted for free in vercel
+
+Visit https://vercel.com/ for more info
+Or read the documentation here https://vercel.com/docs
 
 
 ## This Project use React
