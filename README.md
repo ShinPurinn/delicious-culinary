@@ -11,7 +11,9 @@ https://github.com/ShinPurinn/delicious-culinary
 ## Project Library
 
 This project is using spoonacular API
+
 Spoonacular API Website https://spoonacular.com/food-api
+
 Spoonacular API documentation https://spoonacular.com/food-api/docs
 
 These are the project libraries :
