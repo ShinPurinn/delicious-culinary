@@ -58,7 +58,7 @@ Simplistic Design is the best ain't it? we make sure to make the web light as a 
 ## This Project is being hosted for free in vercel
 
 Visit https://vercel.com/ for more info
-Or read the documentation here https://vercel.com/docs
+or read the documentation here https://vercel.com/docs
 
 
 ## This Project use React
