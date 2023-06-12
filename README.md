@@ -5,6 +5,7 @@ Delicious Culinary is a website that show popular foods recipe. In the homepage,
 ## Project Library
 
 This project is using spoonacular API
+
 These are the project libraries :
 - react-scripts
 - @splidejs/react-splide
